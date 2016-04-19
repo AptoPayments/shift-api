@@ -10,7 +10,7 @@ When a cardholder uses his or her Shift Card to purchase goods or services, Shif
 
 -OR-
 
-**Shift stores a spendable balance** for each cardholder. Your service simply updates each cardholder spendable balance as it changes within your business logic by consuming Shift's [Cardholder Balance endpoint](#cardholder-balance).
+**Shift stores a spendable balance** for each cardholder. Your service simply updates each cardholder spendable balance as it changes within your business logic by consuming Shift's [Cardholder Balance endpoint](#cardholder-balances).
 
 ### Lay of the land
 
